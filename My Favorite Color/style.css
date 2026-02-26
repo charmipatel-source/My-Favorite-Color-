@@ -1,0 +1,17 @@
+/*changing page style and color */
+body {
+    background-color:rgb(13, 34, 49);
+    color: rgb(186, 230, 228);
+    font-family:cursive;
+    
+}
+h1 {
+    color: bisque;
+
+}
+
+h3 {
+    color: rgb(196, 230, 215);
+
+
+}
